@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Nếu tắt web này đi thì cậu đã đồng ý làm ny mình",
-    introTitle: 'Nguyễn Ngọc Mai',
+    introTitle: 'Lê Ngọc Mai',
     introDesc:  `Nếu mai là thuốc phiện thì tớ thà nghiện chứ không cai
     `,
     btnIntro: '^^HiHi^^',
