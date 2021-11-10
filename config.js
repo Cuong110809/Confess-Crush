@@ -1,21 +1,18 @@
 const CONFIG = {
-    titleWeb: "Giành tặng cho Kiên",
-    introTitle: 'Nguyễn Trung Kiên',
-    introDesc:  `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương
+    titleWeb: "Nếu tắt web này đi thì cậu đã đồng ý làm ny mình",
+    introTitle: 'Nguyễn Ngọc Mai',
+    introDesc:  `Nếu mai là thuốc phiện thì tớ thà nghiện chứ không cai
     `,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Phải chăng cậu đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng cậu đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Đúng ròi <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Làm ny mình .',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu tớ <3',
+    btnReply: 'Gửi cho Cường <3',
+    reply: 'Vì bạn đẹp trai <33333333',
+    mess: 'Mình biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Làm ny mình nhé .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    
+    
